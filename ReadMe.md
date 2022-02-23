@@ -5,7 +5,7 @@
 
 # Simple Python Calculator
 
-## Instructions:
+## Basics:
 - Select the appropriate math operator.
 - Enter the numbers.
 - The result will be displayed.
